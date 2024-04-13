@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=e0b46f&text=CodeDessert&fontColor=fff3e7) 
 <br/><br/><br/><br/>
 
-Welcome my github. 👋
+🍰 Studying 🍰
 
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
