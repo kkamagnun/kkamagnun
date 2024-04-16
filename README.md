@@ -1,7 +1,7 @@
 ### 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=ffffff&text=404NotFound&fontColor=fffff) 
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=00000&text=404NotFound&fontColor=ffffff) 
 <br/><br/><br/><br/><br/>
 
 <h2 align="center"> 🍰 Studying 🍰 </h2>
