@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 <br/>
-<h2 align="center"> 🍨 My 🍨 </h2>
+<h2 align="center"> 🍨 Git Blog 🍨 </h2>
 <a href="https://kkamagnun.github.io/"><img src="https://img.shields.io/badge/Git_Blogs-d14836?style=flat-square&logo=github&logoColor=white&link=https://kkamagnun.github.io"/></a>
 
 
@@ -23,9 +23,10 @@
 
 <h2 align="center"> 🧇 My Solved Rank 🧇 </h2
 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winman123@naver.com)](https://solved.ac/winman123@naver.com/) 
 
-<div align="center" style="text-align:center">
+<div style="text-align: left"> 
   
 
   
