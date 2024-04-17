@@ -14,8 +14,20 @@
 
 
 https://kkamagnun.github.io/
-<br/><br/><br/><br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winman123&show_icons=true&theme=swif) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winman123@naver.com)](https://solved.ac/winman123@naver.com/) 
+<br/><br/><br/><br/>
+<h2 align="center"> 🥨 My Github Stats 🥨 </h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winman123&show_icons=true&theme=swif) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winman123&layout=compact&theme=swif)
+
+
+<h2 align="center"> 🧇 My Solved Rank 🧇 </h2
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winman123@naver.com)](https://solved.ac/winman123@naver.com/) 
+
+<a href="https://kkamagnun.github.io/"><img src="https://img.shields.io/badge/Git_Blogs-d14836?style=flat-square&logo=github&logoColor=white&link=https://kkamagnun.github.io"/></a>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+
 
 
 <!--
