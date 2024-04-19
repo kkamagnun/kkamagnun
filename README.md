@@ -10,7 +10,7 @@
 
 <br/>
 <h2 align="center"> 🍨 Git Blog 🍨 </h2>
-<a href="https://kkamagnun.github.io/"><img src="https://img.shields.io/badge/Git_Blogs-d14836?style=flat-square&logo=github&logoColor=white&link=https://kkamagnun.github.io"/></a>
+ https://kkamagnun.github.io
 
 
 
