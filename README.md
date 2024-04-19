@@ -17,8 +17,10 @@
 <br/><br/>
 <h2 align="center"> 🥨 Github Stats 🥨 </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winman123&show_icons=true&theme=swif) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winman123&layout=compact&theme=swif)
+![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamagnun&include_all_commits=true&show_icons=true&theme=swif) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamagnun&layout=compact&theme=swif)
+
+
 
 
 <h2 align="center"> 🧇 My Solved Rank 🧇 </h2
