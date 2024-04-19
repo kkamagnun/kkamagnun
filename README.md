@@ -29,14 +29,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winman123@naver.com)](https://solved.ac/winman123@naver.com/) 
 
 <div style="text-align: left"> 
-  
-
-  
-<h2 align="center"> 🧂 My Syory 🧂 </h2
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kkamagnun)](https://github.com/eungyeole/velog-readme-stats) 
-
-
 
 <!--
 **kkamagnun/kkamagnun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
