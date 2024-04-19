@@ -10,7 +10,9 @@
 
 <br/>
 <h2 align="center"> 🍨 Git Blog 🍨 </h2>
- https://kkamagnun.github.io
+
+[ ![thanq](https://media.tenor.com/klGZ2gi4yJAAAAAi/%EA%B0%90%EC%82%AC%EC%BD%A9-thanks.gif) ]( https://kkamagnun.github.io/ )
+
 
 
 
