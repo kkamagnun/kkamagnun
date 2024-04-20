@@ -1,7 +1,7 @@
 ### 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=00000&text=404NotFound&fontColor=ffffff) 
+![텍스트](이미지파일경로.jpg)
 <br/><br/><br/><br/>
 
 <h2 align="center"> 🍰 Studying 🍰 </h2>
