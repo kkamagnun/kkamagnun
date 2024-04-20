@@ -2,8 +2,7 @@
 <div align="center">
   
 ![keybord12](https://github.com/kkamagnun/kkamagnun/assets/165647182/b9c0fc83-1d53-483c-bc65-02064d6b7e90)
-
-<br/><br/><br/><br/>
+<br/>
 
 <h2 align="center"> 🍰 Studying 🍰 </h2>
 
