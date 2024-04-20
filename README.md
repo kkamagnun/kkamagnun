@@ -1,7 +1,8 @@
 ### 
 <div align="center">
   
-![keybord12](https://github.com/kkamagnun/kkamagnun/assets/165647182/b9c0fc83-1d53-483c-bc65-02064d6b7e90)
+![keybord123](https://github.com/kkamagnun/kkamagnun/assets/165647182/74b65900-9e63-4ba1-93d7-638421c9da70)
+
 <br/>
 
 <h2 align="center"> 🍰 Studying 🍰 </h2>
